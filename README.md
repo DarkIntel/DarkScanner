@@ -1,5 +1,6 @@
 # DarkScanner
 
+```bash
 apt-get update
 apt-get install tor git bison libexif-dev
 apt-get install python-pip
@@ -26,3 +27,4 @@ HashedControlPassword 16:3E73307B3E434914604C25C498FBE5&RHTBAAF70616591AAF88
 
 service tor restart
 wget https://raw.githubusercontent.com/DarkIntel/DarkScanner/1.0.0-dev/DarkScanner.list
+```
